@@ -1,0 +1,68 @@
+body {
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  .auth-container {
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+  }
+  .auth-container h2 {
+    margin-bottom: 35px;
+  }
+  .input-field {
+    margin-bottom: 20px;
+  }
+  
+  .input-field label {
+    display: block;
+    margin-bottom: 5px;
+    font-size: 14px;
+  }
+  
+  .input-field input {
+    width: 100%;
+    padding: 8px !important;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .btn-submit {
+    width: 100%;
+    padding: 10px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .btn-submit:hover {
+    background-color: #0056b3;
+  }
+  
+  .error {
+    color: red;
+    font-size: 12px;
+  }
+  .password-wrapper {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.eye-icon {
+  position: absolute;
+  right: 10px;
+  cursor: pointer;
+}
+
+.name, .email {
+  padding-right: 18px;
+}
+
+.form-control {
+  width: 100% !important;
+}

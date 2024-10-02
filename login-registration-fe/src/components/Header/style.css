@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+}
+.header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    background-color: #34C88A; /* Light background color */
+  }
+  
+  .logo-container {
+    margin-bottom: 20px;
+  }
+  
+  .logo {
+    max-width: 100px; /* Adjust as necessary */
+  }
+  
+  .nav-links {
+    margin-bottom: 20px;
+    position: relative;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .nav-links ul {
+    list-style: none;
+    display: flex;
+    gap: 20px; /* Spacing between links */
+  }
+  
+  .nav-links a {
+    text-decoration: none;
+    color: #ffffff; /* Link color */
+    font-weight: bold; /* Make links bold */
+  }
+  
+  .language-selector {
+    display: flex;
+    gap: 5px; /* Spacing between language buttons */
+  }
+  
+  .language-selector button {
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+    font-weight: bold; /* Make buttons bold */
+  }
+  
+  .header-content {
+    width: 100%;
+    display: flex;
+    justify-content: space-between; /* This will position logo in center and languages to the right */
+    align-items: center;
+  }
+  .login {
+    position: absolute;
+    right: 150px;
+    color: #ffffff;
+    gap: 5px;
+    display: flex;
+  }

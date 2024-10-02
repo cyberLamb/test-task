@@ -1,0 +1,37 @@
+{
+    "login": "Login",
+    "register": "Register",
+    "email": "Email",
+    "password": "Password",
+    "interests": "Interests",
+    "submit": "Submit",
+    "error": {
+      "required": "This field is required",
+      "invalidEmail": "Please enter a valid email",
+      "minLengthPassword": "Password must be at least 6 characters"
+    },
+    "name": "Name",
+    "country": "Country",
+    "region": "Region",
+    "cityVillage": "City/Village",
+    "school": "School",
+    "subjects": "Subjects",
+    "grades": "Grades",
+    "confirmPassword": "Confirm Password",
+    "Ok": "Ok",
+    "don't_have_account": "Don't have an account?",
+    "Loading": "Loading...",
+    "nameRequired": "Name is required",
+    "email_verification": "Email Verfication",
+    "enter_verification_code": "Enter verification code",
+    "verify": "Verify",
+    "emailRequired": "Email is required",
+    "emailPattern": "Please enter a valid email",
+    "passwordRequired": "Password is required",
+    "passwordMinLength": "Password must be at least 6 characters",
+    "confirmPasswordRequired": "Please confirm your password",
+    "passwordsDoNotMatch": "Passwords do not match",
+    "user_details": "User Details",
+    "User not found": "User not found"
+  }
+  

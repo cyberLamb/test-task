@@ -1,0 +1,37 @@
+{
+    "login": "Մուտք գործել",
+    "register": "Գրանցվել",
+    "email": "Էլ․ հասցե",
+    "password": "Գաղտնաբառ",
+    "interests": "Հետաքրքրություններ",
+    "submit": "Ուղարկել",
+    "error": {
+      "required": "Այս դաշտը պարտադիր է",
+      "invalidEmail": "Խնդրում ենք մուտքագրել վավեր էլ․ հասցե",
+      "minLengthPassword": "Գաղտնաբառը պետք է լինի առնվազն 6 նիշ"
+    },
+    "name": "Անուն",
+    "country": "Երկիր",
+    "region": "Տարածք",
+    "cityVillage": "Քաղաք/Գյուղ",
+    "school": "Դպրոց",
+    "subjects": "Առարկաներ",
+    "email_verification": "Էլ․ փոստ-ի վերիֆիկացիա",
+    "grades": "Դասարաններ",
+    "don't_have_account": "Չունե՞ք ակաունտ",
+    "confirmPassword": "Վերակերտել գաղտնաբառը",
+    "enter_verification_code": "Մուտքագրել վերիֆիկացիոն կոդը",
+    "Ok": "Օկ",
+    "Loading": "Բեռնվում է․․․",
+    "verify": "Վերիֆիկացնել",
+    "nameRequired": "Անունը պարտադիր է",
+    "emailRequired": "Էլ-փոստը պարտադիր է",
+    "emailPattern": "Խնդրում ենք մուտքագրել վավեր էլ-փոստ",
+    "passwordRequired": "Գաղտնաբառը պարտադիր է",
+    "passwordMinLength": "Գաղտնաբառը պետք է լինի առնվազն 6 նիշ",
+    "confirmPasswordRequired": "Խնդրում ենք վերակերտել գաղտնաբառը",
+    "passwordsDoNotMatch": "Գաղտնաբառերը չեն համընկնում",
+    "user_details": "Օգտվողի մանրամասներ",
+    "User not found": "Օգտվողը չի գտնվել"
+  }
+  
